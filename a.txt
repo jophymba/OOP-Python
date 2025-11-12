@@ -1,1 +1,2 @@
 This is some text in A
+There is a new change from GitHub to practise pull prompts.
