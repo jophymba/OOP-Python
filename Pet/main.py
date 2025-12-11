@@ -7,7 +7,7 @@ pet1.show()
 pet1.speak()
 print()
 
-cat1 = Cat("Tim", 7, "white")
+cat1 = Cat("Tim", 7, "white", "chicken")
 cat1.show()
 cat1.speak()
 print()
